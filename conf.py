@@ -15,7 +15,6 @@ import sys
 import sphinx_theme
 
 sys.path.insert(0, os.path.abspath('.'))
-sys.path.append('../src/')
 sys.path.append('/documentos')
 
 
@@ -23,9 +22,9 @@ sys.path.append('/documentos')
 
 # -- Project information -----------------------------------------------------
 
-project = 'EasyGmail'
-copyright = '2021, Alvaro , Marina , Manuel y Zuleima'
-author = 'Alvaro , Marina , Manuel , Zuleima'
+project = 'SecretKey'
+copyright = 'View Source Code  <-- Hazlo enserio'
+author = 'Mwazoski'
 
 # The full version, including alpha/beta/rc tags
 release = 'Release 1.0'
