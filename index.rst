@@ -6,11 +6,6 @@
 UCA-CTF
 =======
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
 Hola, soy Mwazoski, he escondido una key aqui....
 **Tal vez** Lo que buscas no se vea ahora, pero si miras mas profundo, te daras cuenta de que se ve.
 
